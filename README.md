@@ -1,6 +1,9 @@
 # [삼성전자 DX부문] 2024년 동계 대학생 SW 알고리즘 특강 사전문제 풀이
 
 문제 출처: SW Expert Academy[https://swexpertacademy.com/main/main.do]
+&nbsp;  
+
+&nbsp;  
 
 ## 1번 문제: 삼각김밥 월드
 **[문제]**  
@@ -32,8 +35,10 @@
 5 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#1&nbsp;&nbsp;1  
 7 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#2&nbsp;&nbsp;0  
 100 1000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#3&nbsp;&nbsp;31  
+&nbsp;  
 
 ---
+&nbsp;  
 
 ## 2번 문제: AI의 반란 최후의 전쟁
 **[문제]**  
