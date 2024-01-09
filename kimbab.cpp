@@ -36,10 +36,10 @@ int main(int argc, char** argv) {
 	int T;
 	cin>>T;
 	for (int test_case = 1; test_case <= T; ++test_case) {
-        int start, end;
-        cin >> start >> end;
-        int cost = calculateCost(start, end);
-        cout << "#" << test_case << " " << cost << endl;
+	        int start, end;
+	        cin >> start >> end;
+	        int cost = calculateCost(start, end);
+	        cout << "#" << test_case << " " << cost << endl;
 	}
 	return 0;
 }
